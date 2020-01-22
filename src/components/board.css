@@ -1,0 +1,15 @@
+.board {
+  display: flex;
+  width: 624px;
+  height: 624px;
+  margin: auto;
+  padding: 1px;
+  align-items: center;
+  background-color: #aaa;
+}
+
+.boardItems {
+  display: table;
+  width: auto;
+  margin: auto;
+}

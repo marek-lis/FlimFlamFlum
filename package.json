@@ -2,7 +2,9 @@
   "name": "flim-flam-flum",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://konwersacje.wroclaw.pl/other/fff/",
   "dependencies": {
+    "bootstrap": "^4.1.1",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-scripts": "2.1.0"

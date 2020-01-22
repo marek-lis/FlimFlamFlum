@@ -1,0 +1,14 @@
+.game {
+  display: table;
+  width: 100%;
+  height: auto;
+  margin: auto;
+  padding: 1px;
+  text-align: center;
+  align-items: center;
+  background-color: #fff;
+}
+
+.hr {
+  width: 624px;
+}
